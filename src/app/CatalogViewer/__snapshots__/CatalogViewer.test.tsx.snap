@@ -1,0 +1,190 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`CatalogViewer component matches the snapshot 1`] = `
+<DocumentFragment>
+  <div
+    class="shadow-md pb-4"
+  >
+    <h2
+      class="text-l bg-slate-600 text-green-500 p-2 text-center font-bold"
+    >
+      Catalog Viewer
+    </h2>
+    <div
+      class="shadow-md mx-8 mt-12 mb-4 flex flex-col gap-5 border pt-5 pb-2 px-2"
+    >
+      <div
+        class="px-8"
+        data-testid="catalog-view"
+      >
+        <div
+          class="w-[300px] h-[300px] overflow-hidden"
+        >
+          <img
+            alt="image-candle holder 1"
+            class="w-full h-full object-cover object-center"
+            data-nimg="1"
+            decoding="async"
+            height="500"
+            src="/_next/image?url=%2Fimages%2F1.jpeg&w=1080&q=75"
+            srcset="/_next/image?url=%2Fimages%2F1.jpeg&w=640&q=75 1x, /_next/image?url=%2Fimages%2F1.jpeg&w=1080&q=75 2x"
+            style="color: transparent;"
+            width="500"
+          />
+        </div>
+      </div>
+      <div
+        class="flex justify-between items-center"
+      >
+        <button
+          class="flex rounded-full border-2 border-slate-300 border-solid p-1 text-green-700 h-7 w-7 justify-center items-center hover:bg-green-700 hover:text-white hover:border-green-700 >"
+          data-testid="prev-slide-btn"
+        >
+          <svg
+            fill="currentColor"
+            height="1em"
+            stroke="currentColor"
+            stroke-width="0"
+            viewBox="0 0 448 512"
+            width="1em"
+            xmlns="http://www.w3.org/2000/svg"
+          >
+            <path
+              d="M257.5 445.1l-22.2 22.2c-9.4 9.4-24.6 9.4-33.9 0L7 273c-9.4-9.4-9.4-24.6 0-33.9L201.4 44.7c9.4-9.4 24.6-9.4 33.9 0l22.2 22.2c9.5 9.5 9.3 25-.4 34.3L136.6 216H424c13.3 0 24 10.7 24 24v32c0 13.3-10.7 24-24 24H136.6l120.5 114.8c9.8 9.3 10 24.8.4 34.3z"
+            />
+          </svg>
+        </button>
+        <div
+          class="relative"
+        >
+          <button
+            class="absolute hover:border-solid hover:border-gray-500 hover:border-2 w-[80px] h-[75px] top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2"
+            data-testid="thumb-button-0"
+          />
+          <div
+            class="w-16 h-16"
+          >
+            <img
+              alt="candle holder 1"
+              class="w-full h-full object-cover object-center"
+              data-nimg="1"
+              decoding="async"
+              height="100"
+              loading="lazy"
+              src="/_next/image?url=%2Fimages%2F1.jpeg&w=256&q=75"
+              srcset="/_next/image?url=%2Fimages%2F1.jpeg&w=128&q=75 1x, /_next/image?url=%2Fimages%2F1.jpeg&w=256&q=75 2x"
+              style="color: transparent;"
+              width="100"
+            />
+          </div>
+        </div>
+        <div
+          class="relative"
+        >
+          <button
+            class="absolute hover:border-solid hover:border-gray-500 hover:border-2 w-[80px] h-[75px] top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2"
+            data-testid="thumb-button-1"
+          />
+          <div
+            class="w-16 h-16"
+          >
+            <img
+              alt="candle holder 2"
+              class="w-full h-full object-cover object-center"
+              data-nimg="1"
+              decoding="async"
+              height="100"
+              loading="lazy"
+              src="/_next/image?url=%2Fimages%2F2.jpeg&w=256&q=75"
+              srcset="/_next/image?url=%2Fimages%2F2.jpeg&w=128&q=75 1x, /_next/image?url=%2Fimages%2F2.jpeg&w=256&q=75 2x"
+              style="color: transparent;"
+              width="100"
+            />
+          </div>
+        </div>
+        <div
+          class="relative"
+        >
+          <button
+            class="absolute hover:border-solid hover:border-gray-500 hover:border-2 w-[80px] h-[75px] top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2"
+            data-testid="thumb-button-2"
+          />
+          <div
+            class="w-16 h-16"
+          >
+            <img
+              alt="candle holder 3"
+              class="w-full h-full object-cover object-center"
+              data-nimg="1"
+              decoding="async"
+              height="100"
+              loading="lazy"
+              src="/_next/image?url=%2Fimages%2F3.jpeg&w=256&q=75"
+              srcset="/_next/image?url=%2Fimages%2F3.jpeg&w=128&q=75 1x, /_next/image?url=%2Fimages%2F3.jpeg&w=256&q=75 2x"
+              style="color: transparent;"
+              width="100"
+            />
+          </div>
+        </div>
+        <div
+          class="relative"
+        >
+          <button
+            class="absolute hover:border-solid hover:border-gray-500 hover:border-2 w-[80px] h-[75px] top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2"
+            data-testid="thumb-button-3"
+          />
+          <div
+            class="w-16 h-16"
+          >
+            <img
+              alt="candle holder 4"
+              class="w-full h-full object-cover object-center"
+              data-nimg="1"
+              decoding="async"
+              height="100"
+              loading="lazy"
+              src="/_next/image?url=%2Fimages%2F4.jpeg&w=256&q=75"
+              srcset="/_next/image?url=%2Fimages%2F4.jpeg&w=128&q=75 1x, /_next/image?url=%2Fimages%2F4.jpeg&w=256&q=75 2x"
+              style="color: transparent;"
+              width="100"
+            />
+          </div>
+        </div>
+        <button
+          class="flex rounded-full border-2 border-slate-300 border-solid p-1 text-green-700 h-7 w-7 justify-center items-center hover:bg-green-700 hover:text-white hover:border-green-700 >"
+          data-testid="next-slide-btn"
+        >
+          <svg
+            fill="currentColor"
+            height="1em"
+            stroke="currentColor"
+            stroke-width="0"
+            viewBox="0 0 448 512"
+            width="1em"
+            xmlns="http://www.w3.org/2000/svg"
+          >
+            <path
+              d="M190.5 66.9l22.2-22.2c9.4-9.4 24.6-9.4 33.9 0L441 239c9.4 9.4 9.4 24.6 0 33.9L246.6 467.3c-9.4 9.4-24.6 9.4-33.9 0l-22.2-22.2c-9.5-9.5-9.3-25 .4-34.3L311.4 296H24c-13.3 0-24-10.7-24-24v-32c0-13.3 10.7-24 24-24h287.4L190.9 101.2c-9.8-9.3-10-24.8-.4-34.3z"
+            />
+          </svg>
+        </button>
+      </div>
+    </div>
+    <form
+      class="flex justify-center gap-2"
+    >
+      <input
+        data-testid="slide-show-checkbox"
+        id="slideShow"
+        name="slideShow"
+        type="checkbox"
+      />
+      <label
+        for="slideShow"
+      >
+        Start Slide Show
+      </label>
+    </form>
+  </div>
+</DocumentFragment>
+`;
